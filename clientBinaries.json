@@ -28,7 +28,7 @@
                         "download": {
                             "url": "https://gwshstore.blob.core.windows.net/builds/gwsh-linux-386-1.7.3-107280f9.tar.gz",
                             "type": "tar",
-                            "md5": "ad5688d4117e04f35dc7b9ec14f065ca",
+                            "md5": "3e821bee7936cac8de3354970b9e21a6",
                             "bin": "gwsh-linux-386-1.7.3-107280f9/gwsh"
                         },
                         "bin": "gwsh",
@@ -92,7 +92,7 @@
                         "download": {
                             "url": "https://gwshstore.blob.core.windows.net/builds/gwsh-windows-386-1.7.3-107280f9.zip",
                             "type": "zip",
-                            "md5": "cf97e20d63c89f2d141d88ef11f3951b",
+                            "md5": "d70f37e35d110dd0a08fad50612f25a2",
                             "bin": "gwsh-windows-386-1.7.3-107280f9\\gwsh.exe"
                         },
                         "bin": "gwsh.exe",
