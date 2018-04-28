@@ -72,7 +72,7 @@
                         "download": {
                             "url": "https://gwshstore.blob.core.windows.net/builds/gwsh-windows-amd64-1.7.3-107280f9.zip",
                             "type": "zip",
-                            "md5": "f18a83c88aa3ecb85f4f81b34d2a2654",
+                            "md5": "2cb77494b1c2842a7221b6a34bf32486",
                             "bin": "gwsh-windows-amd64-1.7.3-107280f9\\gwsh.exe"
                         },
                         "bin": "gwsh.exe",
