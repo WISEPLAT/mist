@@ -143,7 +143,7 @@ const wiseplatProvider = fs.readFileSync(path.join(__dirname, '/injected/Wisepla
 mistAPI = mistAPI.replace('__version__', packageJson.version)
         .replace('__license__', packageJson.license)
         .replace('__platform__', process.platform)
-        .replace('__solidityVersion__', String(packageJson.dependencies.solc).match(/\d+\.\d+\.\d+/)[0]);
+        .replace('__solidityVersion__', "0.4.18"/*String(packageJson.dependencies.solc).match(/\d+\.\d+\.\d+/)[0]*/);
 
 webFrame.executeJavaScript(
     mistAPI +

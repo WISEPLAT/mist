@@ -9,7 +9,7 @@ const {webFrame} = require('electron');
 const web3Admin = require('../web3Admin.js');
 
 // make variables globally accessable
-// window.dirname = __dirname;
+window.dirname = __dirname;
 
 webFrame.executeJavaScript("window.mistMode = 'wallet';");
 
